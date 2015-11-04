@@ -1,6 +1,9 @@
 # Junit
 This teaching video is to show a basic understanding of the topic.
 
+"JUnit is a unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development, and is one of a family of unit testing frameworks which is collectively known as xUnit that originated with SUnit."
+[WikiPedia](https://en.wikipedia.org/wiki/JUnit)
+
 video link:  [Link](https://youtu.be/UF7Jp5B3Yvc) 
 
 Defined the Topic
