@@ -8,17 +8,25 @@ Although referred to as a framework, it works in a manner of a library. The JCF 
 video link:  [Link](https://www.youtube.com/watch?v=audKO2lJWX8) 
 
 Defined the Topic
-@0:16
+@0:40
 
 Explained how to use the code(teaching)
-@1:33
+Set
+@1:15
+List
+15:55
 
 Showed the code working
-@4:30
+@5:15
+@11:45
+
 
 Showed my own sandbox of the topic.
-@8:32
+@19:32
+ran code @25:00
 
 Answering Questions.
-@5:02
-@11:58
+@3:16
+@3:30
+@8:04
+@15:00 ish
