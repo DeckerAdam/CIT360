@@ -5,7 +5,7 @@ This teaching video is to show a basic understanding of the topic.
 Although referred to as a framework, it works in a manner of a library. The JCF provides both interfaces that define various collections and classes that implement them."
 [WikiPedia](https://en.wikipedia.org/wiki/Java_collections_framework)
 
-video link:  [Link](https://www.youtube.com/watch?v=audKO2lJWX8) 
+video link:  [Link](https://www.youtube.com/watch?v=ffj3Hkw6vFM) 
 
 Defined the Topic
 @0:40
